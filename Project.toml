@@ -1,0 +1,10 @@
+name = "libcap_jll"
+uuid = "eef66a8b-8d7a-5724-a8d2-7c31ae1e29ed"
+version = "2.27.0+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.3"
