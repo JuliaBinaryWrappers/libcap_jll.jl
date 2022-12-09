@@ -13,7 +13,7 @@ function __init__()
 
     JLLWrappers.@init_library_product(
         libcap,
-        "lib64/libcap.so",
+        "lib/libcap.so",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
