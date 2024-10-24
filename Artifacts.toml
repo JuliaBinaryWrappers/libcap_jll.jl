@@ -1,103 +1,103 @@
 [[libcap]]
 arch = "aarch64"
-git-tree-sha1 = "6f8fa1faaed5976bed0e7bb7a85e284888ef3f8b"
+git-tree-sha1 = "4e3269a009eeeb35bbf2840727fc8fe5f794c9f2"
 libc = "glibc"
 os = "linux"
 
     [[libcap.download]]
-    sha256 = "184514a6e43c2cec67bf68289eafa3d16f00acd0bc08f669efb820f53cd44011"
-    url = "https://github.com/JuliaBinaryWrappers/libcap_jll.jl/releases/download/libcap-v2.51.0+1/libcap.v2.51.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "32c437c01f4e0985340903ab492806a3f3a877a646694a98627d1d8a19fb2959"
+    url = "https://github.com/JuliaBinaryWrappers/libcap_jll.jl/releases/download/libcap-v2.70.0+0/libcap.v2.70.0.aarch64-linux-gnu.tar.gz"
 [[libcap]]
 arch = "aarch64"
-git-tree-sha1 = "6c770a00df30cab26b7364e669c4a770fddf961c"
+git-tree-sha1 = "d9aaf8bd7d12e05689b5fffbc653770ae68701f9"
 libc = "musl"
 os = "linux"
 
     [[libcap.download]]
-    sha256 = "a972d6b7c9cdf7d942f0bc375d678216d1809de287dd079ec8fdea3e71e51c45"
-    url = "https://github.com/JuliaBinaryWrappers/libcap_jll.jl/releases/download/libcap-v2.51.0+1/libcap.v2.51.0.aarch64-linux-musl.tar.gz"
+    sha256 = "dc03237bbd0730abf9bd60315aeb2bc4fb186a903768fe35f6de3e2c44285589"
+    url = "https://github.com/JuliaBinaryWrappers/libcap_jll.jl/releases/download/libcap-v2.70.0+0/libcap.v2.70.0.aarch64-linux-musl.tar.gz"
 [[libcap]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "27c0a61024eca53628b0adfa2ddb209220630de1"
+git-tree-sha1 = "89c65f6e1e7077658c0c3baea9429a8ca7b1acad"
 libc = "glibc"
 os = "linux"
 
     [[libcap.download]]
-    sha256 = "7ccdb8d21bb66c60d0106aa50aa199ca40ec5c3a500aa7d5e07056d6f3627aad"
-    url = "https://github.com/JuliaBinaryWrappers/libcap_jll.jl/releases/download/libcap-v2.51.0+1/libcap.v2.51.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "02ab078420aa25274680f004d03231847d45481ebeb060d7e1d7a2e98c258fae"
+    url = "https://github.com/JuliaBinaryWrappers/libcap_jll.jl/releases/download/libcap-v2.70.0+0/libcap.v2.70.0.armv6l-linux-gnueabihf.tar.gz"
 [[libcap]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "2c4f9bee6a5f4dd91c268c5369ebe83646124b00"
+git-tree-sha1 = "a7c87ac10100e52061d530b7625624987c4bae2b"
 libc = "musl"
 os = "linux"
 
     [[libcap.download]]
-    sha256 = "c0538d483aacc0dee8e9db1c2edb278ac8fe6cd972bf99b7cca8901dd95307e4"
-    url = "https://github.com/JuliaBinaryWrappers/libcap_jll.jl/releases/download/libcap-v2.51.0+1/libcap.v2.51.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "4c26412b2da1bc8a74e0bb5f38e008cd5e893bac61d2f4ced5bdd11323553742"
+    url = "https://github.com/JuliaBinaryWrappers/libcap_jll.jl/releases/download/libcap-v2.70.0+0/libcap.v2.70.0.armv6l-linux-musleabihf.tar.gz"
 [[libcap]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "0a0ca5775807d319c77adc933b55a20b804c853e"
+git-tree-sha1 = "d0fa48a1fdae3b9084178dedf91a3163cabd79d0"
 libc = "glibc"
 os = "linux"
 
     [[libcap.download]]
-    sha256 = "85bf9285b3cdfd9a07b5a4e68b092afb383e224b18e7be8fc2f3be47e0863654"
-    url = "https://github.com/JuliaBinaryWrappers/libcap_jll.jl/releases/download/libcap-v2.51.0+1/libcap.v2.51.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "ea0e6e602f56a67b46c97cca2bd3a02781ea39566961bbb627d4ba30c27a0d2e"
+    url = "https://github.com/JuliaBinaryWrappers/libcap_jll.jl/releases/download/libcap-v2.70.0+0/libcap.v2.70.0.armv7l-linux-gnueabihf.tar.gz"
 [[libcap]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "6255d261495fe1e50bf51223346f21cdb9797638"
+git-tree-sha1 = "da4864933c50dfdf3c7fdd2ce6991057e7499675"
 libc = "musl"
 os = "linux"
 
     [[libcap.download]]
-    sha256 = "fc9c15b06714d32bb7772d2dcad1da36a90095a9b4662c4ae4f02dd0bea8d586"
-    url = "https://github.com/JuliaBinaryWrappers/libcap_jll.jl/releases/download/libcap-v2.51.0+1/libcap.v2.51.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "c9bb54635bfc93670530b72927e15fa9eafd2704b138bc27ef074b22e24e0f34"
+    url = "https://github.com/JuliaBinaryWrappers/libcap_jll.jl/releases/download/libcap-v2.70.0+0/libcap.v2.70.0.armv7l-linux-musleabihf.tar.gz"
 [[libcap]]
 arch = "i686"
-git-tree-sha1 = "9f60e6fe862e0b44a151992777e63019857d4624"
+git-tree-sha1 = "e1ab837783c9b6c64696e3f78eddc426b1c6068b"
 libc = "glibc"
 os = "linux"
 
     [[libcap.download]]
-    sha256 = "6cb56b4cbf54de39555b02c584ae1b8f126ca37909b93c8956b3b40bb79ffec5"
-    url = "https://github.com/JuliaBinaryWrappers/libcap_jll.jl/releases/download/libcap-v2.51.0+1/libcap.v2.51.0.i686-linux-gnu.tar.gz"
+    sha256 = "95ad12911d86ba4a58efacbc48ef96c83aa0125701d56060078fc5f15e227a1a"
+    url = "https://github.com/JuliaBinaryWrappers/libcap_jll.jl/releases/download/libcap-v2.70.0+0/libcap.v2.70.0.i686-linux-gnu.tar.gz"
 [[libcap]]
 arch = "i686"
-git-tree-sha1 = "69659f3f24b3397e8c4d483b961e952eb146c955"
+git-tree-sha1 = "358de42b2c9c3d39aa8c00e44b6c29b25dc842b3"
 libc = "musl"
 os = "linux"
 
     [[libcap.download]]
-    sha256 = "5daf1d2d4affd08e0efbe8514d7980f5edb9612c9edb583ac67d8bddf1778faf"
-    url = "https://github.com/JuliaBinaryWrappers/libcap_jll.jl/releases/download/libcap-v2.51.0+1/libcap.v2.51.0.i686-linux-musl.tar.gz"
+    sha256 = "168f5376c68e7953fc6c60eb460e9200f947cbc24b4f235c4ee05eafb6b25a3d"
+    url = "https://github.com/JuliaBinaryWrappers/libcap_jll.jl/releases/download/libcap-v2.70.0+0/libcap.v2.70.0.i686-linux-musl.tar.gz"
 [[libcap]]
 arch = "powerpc64le"
-git-tree-sha1 = "c9e043f12b04f02416cec5f093233da9cd1c52c4"
+git-tree-sha1 = "e13478163e302ebea949b11be333e3cfb0b65a18"
 libc = "glibc"
 os = "linux"
 
     [[libcap.download]]
-    sha256 = "004862c9d3cfecd4e2f3a37d3ad843c80c7355e68ce7e4eaf77a79387f078392"
-    url = "https://github.com/JuliaBinaryWrappers/libcap_jll.jl/releases/download/libcap-v2.51.0+1/libcap.v2.51.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "1c35fad87d3143c9762c9b48c9450e3d7821f579dee8589888af37badf600922"
+    url = "https://github.com/JuliaBinaryWrappers/libcap_jll.jl/releases/download/libcap-v2.70.0+0/libcap.v2.70.0.powerpc64le-linux-gnu.tar.gz"
 [[libcap]]
 arch = "x86_64"
-git-tree-sha1 = "b93d9f0ec595957fe0cdc951db0d22d8afc55e81"
+git-tree-sha1 = "a6dcc5a48768a380e7243c7ef0ebcf64c69f4c2d"
 libc = "glibc"
 os = "linux"
 
     [[libcap.download]]
-    sha256 = "4424433c62bcbe184670879f0fc283ee4a33046c4ad498abe7de4568c17d0054"
-    url = "https://github.com/JuliaBinaryWrappers/libcap_jll.jl/releases/download/libcap-v2.51.0+1/libcap.v2.51.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "b35b908cc30a2a65699e164c5f0a871a304335281c8225db6153cf129521bac2"
+    url = "https://github.com/JuliaBinaryWrappers/libcap_jll.jl/releases/download/libcap-v2.70.0+0/libcap.v2.70.0.x86_64-linux-gnu.tar.gz"
 [[libcap]]
 arch = "x86_64"
-git-tree-sha1 = "118e8733bf692829ce41cf5d77b905b86b286e7c"
+git-tree-sha1 = "e21ae33cd4327b8e5f7a8e12ccaf52b3e96b765d"
 libc = "musl"
 os = "linux"
 
     [[libcap.download]]
-    sha256 = "ba9d6968333c8f3d731087b4f91f4b8469c56ae8df4b4ded727fca0537a761ec"
-    url = "https://github.com/JuliaBinaryWrappers/libcap_jll.jl/releases/download/libcap-v2.51.0+1/libcap.v2.51.0.x86_64-linux-musl.tar.gz"
+    sha256 = "295cc20d0f4c353ed25cb673aee7ac2d56368bab7f73e3fe7443d7f5626a6ef8"
+    url = "https://github.com/JuliaBinaryWrappers/libcap_jll.jl/releases/download/libcap-v2.70.0+0/libcap.v2.70.0.x86_64-linux-musl.tar.gz"
